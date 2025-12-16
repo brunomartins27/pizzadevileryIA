@@ -115,10 +115,11 @@ O fluxo da IA não é linear. Ele é um grafo de estados:
 ```
 
 ## 📸 Funcionalidades em Destaque
-✅ Cardápio Dinâmico: O bot consulta o banco de dados real. Se você alterar o preço no banco, o bot atualiza na hora.
-✅ Carrinho Interativo: Quando a IA detecta um pedido, ela envia um comando oculto que o React intercepta para animar o carrinho lateral.
-✅ Feedback Visual: Suporte a Markdown para listas e negritos, além de animações de sucesso ao fechar o pedido.
-✅ Sessões Isoladas: Cada recarregamento de página gera uma nova sessão (thread_id), garantindo que o bot não confunda conversas de clientes diferentes.
+
+- ✅ Cardápio Dinâmico: O bot consulta o banco de dados real. Se você alterar o preço no banco, o bot atualiza na hora.
+- ✅ Carrinho Interativo: Quando a IA detecta um pedido, ela envia um comando oculto que o React intercepta para animar o carrinho lateral.
+- ✅ Feedback Visual: Suporte a Markdown para listas e negritos, além de animações de sucesso ao fechar o pedido.
+- ✅ Sessões Isoladas: Cada recarregamento de página gera uma nova sessão (thread_id), garantindo que o bot não confunda conversas de clientes diferentes.
 
 ## 📸 Visualização do Projeto
 
