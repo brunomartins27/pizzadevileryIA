@@ -93,6 +93,15 @@ O fluxo da IA não é linear. Ele é um grafo de estados:
 
 ---
 
+## 📸 Visualização do Projeto
+
+Aqui estão algumas capturas de tela do sistema em funcionamento:
+
+<div align="center">
+  <img src="./screenshots/pizzabot1.jpg" alt="Chat em funcionamento" width="400"/>
+  <img src="./screenshots/pizzabot2.jpg" alt="Carrinho de compras" width="400"/>
+</div>
+
 ## 📂 Estrutura de Pastas (Monorepo)
 
 ```text
@@ -117,14 +126,6 @@ O fluxo da IA não é linear. Ele é um grafo de estados:
 ✅ Feedback Visual: Suporte a Markdown para listas e negritos, além de animações de sucesso ao fechar o pedido.
 ✅ Sessões Isoladas: Cada recarregamento de página gera uma nova sessão (thread_id), garantindo que o bot não confunda conversas de clientes diferentes.
 
-## 📸 Visualização do Projeto
-
-Aqui estão algumas capturas de tela do sistema em funcionamento:
-
-<div align="center">
-  <img src="./screenshots/pizzabot1.jpg" alt="Chat em funcionamento" width="400"/>
-  <img src="./screenshots/pizzabot2.jpg" alt="Carrinho de compras" width="400"/>
-</div>
 
 > *Interface moderna com tema escuro, suporte a Markdown e carrinho interativo.*
 
