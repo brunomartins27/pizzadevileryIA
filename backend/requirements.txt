@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+langchain
+langchain-groq
+langgraph
+python-dotenv
+asyncpg
